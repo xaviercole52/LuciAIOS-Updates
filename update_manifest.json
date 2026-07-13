@@ -2,7 +2,7 @@
   "latest_version": "1.0.01",
   "min_supported_version": "1.0.00",
   "installer_url": "https://github.com/<username>/<repo>/releases/download/1.0.01/LuciAIOSInstaller_1.0.01.exe",
-  "installer_hash": "PUT_SHA256_HASH_HERE",
+  "installer_hash": "F216437265E24E63B84B2EA0C79D29210CA1F88475321EAF2DCEF0E65E465CDC",
   "changelog": [
     "Speech pipeline improvements",
     "Autonomy stability fixes",
