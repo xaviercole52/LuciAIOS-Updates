@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.02",
+  "latest_version": "1.0.03",
   "min_supported_version": "1.0.01",
-  "installer_url": "https://github.com/xaviercole52/LuciAIOS-Updates/releases/download/v1.0.02/LuciAIOSInstaller_1.0.02.exe",
-  "installer_hash": "605D4DDECF66185AF4873EE153F5373C65E7718EF0EEFF4E9777D46BD8BFD91F",
+  "installer_url": "https://github.com/xaviercole52/LuciAIOS-Updates/releases/download/v1.0.03/LuciAIOSInstaller_1.0.03.exe",
+  "installer_hash": " 88439C9EE0ED6C36DC9CAD248B13A59AD8DAEEBAB81EDCC8AD13B81F1210BB99",
   "changelog": [
     "Speech pipeline improvements",
     "Autonomy stability fixes",
